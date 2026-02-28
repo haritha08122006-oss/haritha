@@ -97,7 +97,7 @@ Designed structured interface prototypes in Figma with emphasis on usability, hi
 <p>
 All technical projects and development work are available here:<br><br>
 
-<a href="https://github.com/harithak?tab=repositories" style="color:#00C2A8;">
+<a href="https://github.com/haritha08122006?tab=repositories" style="color:#00C2A8;">
 View My GitHub Repositories
 </a>
 </p>
