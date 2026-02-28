@@ -1,143 +1,110 @@
-<!-- Geometric Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003D3A,100:00C2A8&height=140&section=header&text=HARITHA%20K&fontSize=36&fontColor=ffffff"/>
+<!-- Minimal Professional Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002B2B,100:00C2A8&height=120&section=header&text=HARITHA%20K&fontSize=34&fontColor=ffffff"/>
 
 <br>
 
-<h3 align="center" style="color:#00C2A8;">
-Electronics and Communication Engineering Student
+<h3 align="center">
+Electronics and Communication Engineering Undergraduate
 </h3>
 
 <p align="center">
-Embedded Systems • Digital Systems • UI/UX Design
+Embedded Systems | Digital Electronics | UI/UX Design
 </p>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
-<h2 style="color:#00C2A8;">Profile</h2>
+<h2 style="color:#00C2A8;">Professional Summary</h2>
 
 <p>
-Undergraduate in Electronics and Communication Engineering with focused interest in embedded systems and digital hardware design. 
-Alongside core engineering, actively developing structured UI/UX solutions using research-based design methodology.
+Electronics and Communication Engineering student with strong interest in embedded systems and digital system design. 
+Experienced in conceptualizing and developing hardware-oriented solutions with analytical problem-solving skills. 
+Actively strengthening foundations in data structures and system-level thinking while exploring structured UI/UX methodologies.
 </p>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
-<h2 style="color:#00C2A8;">Core Domains</h2>
+<h2 style="color:#00C2A8;">Core Technical Skills</h2>
 
-<table>
-<tr>
-<td width="50%">
-
-<b>Engineering</b>
 <ul>
-<li>Embedded Systems</li>
-<li>Microcontrollers</li>
-<li>Digital Electronics</li>
-<li>Energy Optimization Concepts</li>
+<li>Programming: C, Python</li>
+<li>Embedded Concepts: Microcontrollers, System Integration</li>
+<li>Digital Electronics and Circuit Fundamentals</li>
+<li>Data Structures and Algorithmic Thinking</li>
+<li>UI/UX Research and Prototyping</li>
 </ul>
-
-</td>
-
-<td width="50%">
-
-<b>Design</b>
-<ul>
-<li>User Interface Design</li>
-<li>User Experience Research</li>
-<li>Wireframing and Prototyping</li>
-<li>Interaction Structure</li>
-</ul>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
-<h2 style="color:#00C2A8;">Selected Work</h2>
+<h2 style="color:#00C2A8;">Key Projects</h2>
 
 <p>
 <b>Energy Recovery from Drone Propeller Airflow</b><br>
-Concept-driven engineering project exploring recovery of kinetic energy from propeller-induced airflow.
-</p>
-
-<p>
-<b>Ultrasonic Insect Monitoring System</b><br>
-Signal-based detection system using ultrasonic frequency analysis.
-</p>
-
-<p>
-<b>UI/UX Design Repositories</b><br>
-Structured Figma prototypes and interaction case studies.
+Designed a conceptual system to capture and convert propeller-induced airflow into usable energy. 
+Focused on aerodynamic analysis and energy optimization principles.
 </p>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<p>
+<b>Ultrasonic Insect Sound Monitoring System</b><br>
+Developed a detection-based concept utilizing ultrasonic frequency analysis for agricultural monitoring applications.
+</p>
 
-<h2 style="color:#00C2A8;">Technical Stack</h2>
+<br>
 
-<table>
-<tr>
-<td width="50%">
+<p>
+<b>UI/UX Design Prototypes</b><br>
+Designed structured interface prototypes in Figma with emphasis on usability, hierarchy, and interaction clarity.
+</p>
 
-<b>Programming</b>
-<ul>
-<li>C</li>
-<li>Python</li>
-</ul>
+<br>
 
-</td>
+<hr style="border:0.5px solid #00C2A8;">
 
-<td width="50%">
+<h2 style="color:#00C2A8;">Technical Tools</h2>
 
-<b>Tools</b>
 <ul>
 <li>Figma</li>
 <li>Canva</li>
-<li>Git</li>
-<li>GitHub</li>
+<li>Git and GitHub</li>
+<li>Basic Embedded Development Tools</li>
 </ul>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
 <h2 style="color:#00C2A8;">Current Focus</h2>
 
 <ul>
 <li>Data Structures and Algorithms</li>
 <li>Embedded C Programming</li>
-<li>System-Level Thinking in Design</li>
+<li>System-Level Design Thinking</li>
 </ul>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
-<h2 style="color:#00C2A8;">Repositories</h2>
+<h2 style="color:#00C2A8;">Repository Access</h2>
 
 <p>
-You can directly explore my work here:<br><br>
+All technical projects and development work are available here:<br><br>
 
 <a href="https://github.com/harithak?tab=repositories" style="color:#00C2A8;">
-View All Repositories
+View My GitHub Repositories
 </a>
 </p>
 
 <br>
 
-<hr style="border:0.6px solid #00C2A8;">
+<hr style="border:0.5px solid #00C2A8;">
 
 <h2 style="color:#00C2A8;">Contact</h2>
 
@@ -149,8 +116,8 @@ Email: haritha08122006@gmail.com
 <br>
 
 <p align="center" style="color:#00C2A8;">
-Structured engineering. Intentional design. Continuous learning.
+Focused on building efficient engineering systems with structured design methodology.
 </p>
 
-<!-- Clean Footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2A8,100:003D3A&height=80&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2A8,100:002B2B&height=70&section=footer"/>
